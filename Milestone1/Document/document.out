@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Task description}{}% 1
+\BOOKMARK [1][-]{section.2}{LAB color space}{}% 2
+\BOOKMARK [1][-]{section.3}{Database}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Main parameters}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Faulty images}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Grayscale images}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Data processing}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{Crop function}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{File format}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.3}{Backup}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.4}{Creating learning data}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.5}{Performance measurements}{section.4}% 12
