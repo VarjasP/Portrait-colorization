@@ -1,6 +1,6 @@
 # Deep Learning a gyakorlatban (BMEVITMAV45)
-**Project work
-Color Rampage team:**
-  Vitanov George - FVX4K2
-  Varjas István Péter - LD2J77
-Theme: Portrait colorization
+**Project work <br />
+Color Rampage team:** <br />
+  Vitanov George - FVX4K2 <br />
+  Varjas István Péter - LD2J77 <br />
+Theme: Portrait colorization <br />
