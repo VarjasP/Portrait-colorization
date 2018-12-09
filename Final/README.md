@@ -2,4 +2,4 @@ This is our final projet folder. We well be updating the Neural Network and the 
 
 The notebooks contain the following:
 - Colorization.ipynb - This notebook helps compare, and show our results. It imports 4 of our pretrained networks, and visualizes their results.
-- 
+- Data Processing.ipynb - Contains all the code for downloading, extracting, processing the IMDB database which we used. The result of this notebook is a AllData.h5 file which is the training, validatin, and testing database consisting 240 000 images.
